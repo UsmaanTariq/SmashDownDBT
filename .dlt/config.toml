@@ -1,0 +1,2 @@
+[load]
+delete_completed_jobs = true

@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: app
+    schema: bronze
+    tables:
+      - name: matches
+      - name: matches_players
+      - name: tournaments
+      - name: tournaments_matches
+      - name: profiles
+      - name: rating_ledger
